@@ -1,19 +1,19 @@
 # VNSuite Releases
 
-Kho lÆ°u trá»¯ phÃ¡t hÃ nh chÃ­nh thá»©c cÃ¡c phiÃªn báº£n cÃ i Ä‘áº·t cá»§a há»‡ sinh thÃ¡i **VNSuite** (Docs, Sheets, Slides, PDF, Notes, Outlook).
+Kho lưu trữ phát hành chính thức các phiên bản cài đặt của hệ sinh thái **VNSuite** (Docs, Sheets, Slides, PDF, Notes, Outlook).
 
 ---
 
-## ðŸ“¥ Táº£i vá» phiÃªn báº£n má»›i nháº¥t
+## 📥 Tải về phiên bản mới nhất
 
-Truy cáº­p trang [Releases](https://github.com/quyenpv/VNSuite-Releases/releases) Ä‘á»ƒ táº£i bá»™ cÃ i Ä‘áº·t phÃ¹ há»£p vá»›i há»‡ Ä‘iá»u hÃ nh cá»§a báº¡n:
+Truy cập trang [Releases](https://github.com/quyenpv/VNSuite-Releases/releases) để tải bộ cài đặt phù hợp với hệ điều hành của bạn:
 
-- **Windows**: Táº£i tá»‡p \VNSuite Setup x.x.x.exe\
-- **TÃ­nh nÄƒng tá»± Ä‘á»™ng cáº­p nháº­t**: Há»— trá»£ nÃ¢ng cáº¥p trá»±c tiáº¿p ngay trong á»©ng dá»¥ng qua tá»‡p \latest.yml\
+- **Windows**: Tải tệp `VNSuite-Setup-x.x.x.exe` (hoặc `VNSuite Setup x.x.x.exe`)
+- **Tính năng tự động cập nhật (Auto-Update)**: Hỗ trợ nâng cấp trực tuyến trực tiếp ngay trong ứng dụng qua tệp `latest.yml`.
 
 ---
 
-## ðŸŒ ThÃ´ng tin dá»± Ã¡n
+## 🌐 Thông tin dự án
 
-- **Trang chá»§ & MÃ£ nguá»“n Private**: [quyenpv/VNSuite](https://github.com/quyenpv/VNSuite)
-- **PhÃ¡t triá»ƒn bá»Ÿi**: **ChÃ¢n HÆ°ng Ltd.**
+- **Trang chủ & Mã nguồn Private**: [quyenpv/VNSuite](https://github.com/quyenpv/VNSuite)
+- **Phát triển bởi**: **Chân Hưng Ltd.**
