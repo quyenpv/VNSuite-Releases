@@ -16,4 +16,4 @@ Truy cập trang [Releases](https://github.com/quyenpv/VNSuite-Releases/releases
 ## 🌐 Thông tin dự án
 
 - **Trang chủ & Mã nguồn Private**: [quyenpv/VNSuite](https://github.com/quyenpv/VNSuite)
-- **Phát triển bởi**: **Chân Hưng Ltd.**
+- **Phát triển bởi**: **Công ty Cổ phần 5STUDY**
